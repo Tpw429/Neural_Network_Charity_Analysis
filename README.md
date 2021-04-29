@@ -27,5 +27,9 @@ We'll use the features in the provided dataset to help Beks create a binary clas
 
 * Compiling, Training, and Evaluating the Model
   * How many neurons, layers, and activation functions did you select for your neural network model, and why? Two hidden layers with the following neurons for each layer: hidden_nodes_layer1 = 24. hidden_nodes_layer2 = 12. These were picked to achieve higher accuracy.
-  * Were you able to achieve the target model performance? Yes, after optimizing my model, I was able to bring my accuracy up to 75%.
+  * Were you able to achieve the target model performance? After optimizing my model, I was able to bring my accuracy up to nearly 75%.
   * What steps did you take to try and increase model performance? Adding hidden layers, adding neurons, and changing the activation function with callback.
+
+## Summary
+The deep learning model is superior in terms of accuracy when compared to different models. The accuracy increased the most when the activation was changed with callback. One recommendation I have to solve the classification problem is to consider using the RandomForestClassifier model, because it can handle tabular data very well and use a number of weak learners to predict the classification beased on all the learners, thus increasing model accuracy.
+
