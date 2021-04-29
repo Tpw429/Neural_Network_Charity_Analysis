@@ -26,6 +26,6 @@ We'll use the features in the provided dataset to help Beks create a binary clas
   * What variable(s) are neither targets nor features, and should be removed from the input data? 'EIN' and 'NAME' are the two variables that should be removed.
 
 * Compiling, Training, and Evaluating the Model
-  * How many neurons, layers, and activation functions did you select for your neural network model, and why?
-  * Were you able to achieve the target model performance?
-  * What steps did you take to try and increase model performance?
+  * How many neurons, layers, and activation functions did you select for your neural network model, and why? Two hidden layers with the following neurons for each layer: hidden_nodes_layer1 = 24. hidden_nodes_layer2 = 12. These were picked to achieve higher accuracy.
+  * Were you able to achieve the target model performance? Yes, after optimizing my model, I was able to bring my accuracy up to 75%.
+  * What steps did you take to try and increase model performance? Adding hidden layers, adding neurons, and changing the activation function with callback.
