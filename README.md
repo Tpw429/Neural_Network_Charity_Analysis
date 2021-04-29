@@ -17,3 +17,7 @@ ASK_AMT—Funding amount requested <br/>
 IS_SUCCESSFUL—Was the money used effectively <br/>
 
 We'll use the features in the provided dataset to help Beks create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup. In this project, I preformed an ETL (Extract, Tranfer, and Load) process on the data, which I then used to train and test to create predictions using neural networks to find which charities should receive funding. The accuracy was measured to see how successful the prediction was for each of the charities.
+
+## Results
+
+- Data Preprocessing
