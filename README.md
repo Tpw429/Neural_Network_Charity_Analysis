@@ -4,7 +4,7 @@
 
 From Alphabet Soup’s business team, Beks received a CSV containing more than 34,000 organizations that have received funding from Alphabet Soup over the years. Within this dataset are a number of columns that capture metadata about each organization, such as the following:
 
-EIN and NAME—Identification columns /n
+EIN and NAME—Identification columns \n
 APPLICATION_TYPE—Alphabet Soup application type
 AFFILIATION—Affiliated sector of industry
 CLASSIFICATION—Government organization classification
