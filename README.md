@@ -20,4 +20,4 @@ We'll use the features in the provided dataset to help Beks create a binary clas
 
 ## Results
 
-- Data Preprocessing
+* Data Preprocessing
